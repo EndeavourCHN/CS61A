@@ -1,0 +1,7 @@
+'composite_identity-correct', (0, 70)
+'count_cond-correct', (512, 70)
+'multiple-correct', (1024, 70)
+'cycle-correct', (1536, 70)
+'Lambda the Free-correct', (2048, 70)
+'The Truth Will Prevail-correct', (2560, 70)
+'Higher Order Functions-correct', (3072, 70)
