@@ -8,4 +8,5 @@ Besides the assignments, I also included some interesting experiments covered in
 
 ## Notes
 
-- Project [hog](projects/hog/) is uploaded with Problem 12 (Final Strategy) skipped. 
+- Project [hog](projects/hog/) is uploaded with Problem 12 (Final Strategy) skipped.
+- Project [scheme](projects/scheme/) is uploaded with Problem EC skipped.
